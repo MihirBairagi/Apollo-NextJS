@@ -1,12 +1,12 @@
 // Import statements
-import React from 'react';
-import Image from 'next/image';
-import Button from './common/Button';
+import React from "react";
+import Image from "next/image";
+import Button from "./common/Button";
 
 // Main component
 const AboutCompany = () => {
   return (
-    <>
+  
       <section className="about-us-section my-[8rem] px-[6rem] max-[600px]:my-[5rem] max-[600px]:px-[2rem]">
         <div className="container">
           <div className="about-us-box flex flex-wrap justify-between item-end">
@@ -88,7 +88,7 @@ const AboutCompany = () => {
           </div>
         </div>
       </section>
-    </>
+
   );
 };
 
