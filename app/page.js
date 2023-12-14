@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import React from 'react'
 import BannerSection from './components/BannerSection'
 import PageUSP from './components/PageUSP'
 import AboutCompany from './components/AboutCompany'
