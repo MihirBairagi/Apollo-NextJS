@@ -6,9 +6,18 @@ const PageUSP = () => {
       <div className="container">
         <div className="page-usp-box">
           <ul className="flex flex-wrap justify-between items-center">
-            <USPItem title="Quality Materiall" description="Lorem ipsum door sit consectetur adipisicing elit. At hic quod minima, vero?" />
-            <USPItem title="Quality Materials" description="Lorem ipum dolor sit consectetur adipisicing elit. At hic quod minima, vero?" />
-            <USPItem title="Quality Material" description="Lorem ipsum dolor sit conectetur adipisicing elit. At hic quod minima, vero?" />
+            <USPItem 
+                title="Quality Materiall" 
+                description="Lorem ipsum door sit consectetur adipisicing elit. At hic quod minima, vero?" 
+            />
+            <USPItem 
+                title="Quality Materials" 
+                description="Lorem ipum dolor sit consectetur adipisicing elit. At hic quod minima, vero?" 
+            />
+            <USPItem 
+                title="Quality Material" 
+                description="Lorem ipsum dolor sit conectetur adipisicing elit. At hic quod minima, vero?" 
+            />
           </ul>
         </div>
       </div>
