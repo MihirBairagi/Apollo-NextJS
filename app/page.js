@@ -1,8 +1,8 @@
-import React from 'react'
 import BannerSection from './components/BannerSection'
 import PageUSP from './components/PageUSP'
 import AboutCompany from './components/AboutCompany'
 import ServiceSection from './components/ServiceSection'
+import ProgressBar from './components/ProgressBar'
 
 export default function Home() {
   return (
@@ -11,6 +11,7 @@ export default function Home() {
     <PageUSP/>
     <AboutCompany/>
     <ServiceSection/>
+    <ProgressBar />
   </>
   )
 }

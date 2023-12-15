@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Button = ({ buttonText }) => {
   return (
-    <div className="btn-box bg-orange hover:bg-[#e55e02] w-max text-white rounded-[0.3rem]">
+    <div className="button-box bg-orange hover:bg-[#e55e02] w-max text-white rounded-[0.3rem]">
       <a 
         href="" 
         className="flex items-center justify-between py-[1rem] px-[1.5rem]">
